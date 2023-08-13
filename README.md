@@ -1,2 +1,4 @@
 # gitcourse
-gitcourse
+
+
+## Notes
